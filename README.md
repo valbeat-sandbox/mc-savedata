@@ -1,2 +1,2 @@
-# mc_save_data_test
-Minecraftのセーブデータの管理環境
+# MC-SaveData
+Minecraftのセーブデータを管理してみる
